@@ -1,0 +1,501 @@
+country,name,artist,energy,popularity,danceability,acousticness,liveness,loudness,valence,speechiness,instrumentalness
+India,G.O.A.T.,Diljit Dosanjh,0.917,73,0.544,0.00313,0.26,-3.403,0.686,0.259,0.0
+India,Shayad,"Pritam, Arijit Singh",0.468,69,0.483,0.785,0.152,-7.642,0.319,0.0341,0.0
+India,Main Tumhara,"A.R. Rahman, Jonita Gandhi, Hriday Gattani",0.14,73,0.236,0.916,0.087,-13.478,0.123,0.0343,0.000148
+India,Khairiyat,Arijit Singh,0.48,73,0.524,0.696,0.142,-9.017,0.285,0.0426,0.0
+India,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",0.481,97,0.767,0.234,0.269,-8.52,0.761,0.0803,0.0
+India,Chidiya,Vilen,0.494,71,0.486,0.715,0.109,-8.56,0.414,0.0324,0.0
+India,Play Date,Melanie Martinez,0.729,89,0.68,0.612,0.224,-5.077,0.446,0.0475,0.0
+India,Clash,Diljit Dosanjh,0.593,70,0.693,0.0187,0.407,-8.506,0.688,0.217,1.09e-06
+India,Kya Baat Aa,"Karan Aujla, Tania",0.526,65,0.706,0.508,0.196,-7.211,0.546,0.12,0.0
+India,Liggi,Ritviz,0.667,71,0.786,0.0112,0.074,-8.272,0.688,0.054,0.053
+India,ily (i love you baby) (feat. Emilee),"Surf Mesa, Emilee",0.774,94,0.674,0.0686,0.393,-7.567,0.33,0.0892,0.00188
+India,"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")","Arijit Singh, Mithoon",0.396,69,0.427,0.736,0.11,-7.556,0.306,0.0366,0.0
+India,Makhna,"Tanishk Bagchi, Yasser Desai, Asees Kaur",0.704,71,0.696,0.167,0.155,-7.876,0.426,0.0423,0.0
+India,"Ghungroo (From ""War"")","Arijit Singh, Shilpa Rao",0.727,72,0.695,0.0744,0.533,-6.274,0.864,0.0323,0.000175
+India,Blinding Lights,The Weeknd,0.73,99,0.514,0.00146,0.0897,-5.934,0.334,0.0598,9.54e-05
+India,Memories,Maroon 5,0.32,90,0.764,0.837,0.0822,-7.209,0.575,0.0546,0.0
+India,Falling,Trevor Daniel,0.43,80,0.784,0.123,0.0887,-8.756,0.236,0.0364,0.0
+India,death bed (coffee for your head),"Powfu, beabadoobee",0.431,95,0.726,0.731,0.696,-8.765,0.348,0.135,0.0
+India,"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")","Rochak Kohli, Arijit Singh, Neha Kakkar",0.382,70,0.718,0.585,0.128,-8.237,0.499,0.0466,0.0
+India,ROCKSTAR (feat. Roddy Ricch),"DaBaby, Roddy Ricch",0.69,100,0.746,0.247,0.101,-7.956,0.497,0.164,0.0
+India,Roses - Imanbek Remix,"SAINt JHN, Imanbek",0.721,79,0.785,0.0149,0.285,-5.457,0.894,0.0506,0.00432
+India,Señorita,"Shawn Mendes, Camila Cabello",0.548,83,0.759,0.0392,0.0828,-6.049,0.749,0.029,0.0
+India,"Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,0.728,71,0.384,0.329,0.329,-6.503,0.311,0.0623,1.85e-05
+India,Genda Phool (feat. Payal Dev),"Badshah, Payal Dev",0.538,71,0.954,0.133,0.0704,-8.394,0.834,0.0732,0.00135
+India,Dil Bechara,A.R. Rahman,0.334,71,0.883,0.159,0.12,-10.651,0.747,0.0426,0.000158
+India,"Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")","Ayushmann Khurrana, Tanishk-Vayu",0.638,68,0.701,0.492,0.153,-3.711,0.813,0.302,0.0
+India,"Kaise Hua (From ""Kabir Singh"")",Vishal Mishra,0.464,63,0.385,0.452,0.109,-6.975,0.15,0.0404,0.0
+India,Khulke Jeene Ka,"A.R. Rahman, Arijit Singh, Shashaa Tirupati",0.544,69,0.676,0.566,0.341,-10.893,0.533,0.0568,0.0
+India,"Humraah (From ""Malang - Unleash The Madness"")","Sachet Tandon, The Fusion Project",0.854,69,0.468,0.176,0.126,-3.932,0.277,0.059,0.0
+India,TKN (feat. Travis Scott),"ROSALÍA, Travis Scott",0.509,92,0.776,0.192,0.115,-6.266,0.485,0.467,1.49e-06
+India,"Agar Tum Saath Ho (From ""Tamasha"")","Alka Yagnik, Arijit Singh",0.519,61,0.562,0.557,0.172,-8.744,0.415,0.0326,0.000268
+India,"Duniyaa (From ""Luka Chuppi"")","Akhil, Dhvani Bhanushali",0.658,59,0.435,0.699,0.125,-5.949,0.524,0.0368,0.0
+India,Dance Monkey,Tones And I,0.593,71,0.825,0.688,0.17,-6.401,0.54,0.0988,0.000161
+India,Illegal Weapon 2.0,"Jasmine Sandlas, Garry Sandhu",0.919,60,0.805,0.101,0.0598,-1.294,0.494,0.0938,0.00343
+India,Watermelon Sugar,Harry Styles,0.816,97,0.548,0.122,0.335,-4.209,0.557,0.0465,0.0
+India,Taare Ginn,"A.R. Rahman, Mohit Chauhan, Shreya Ghoshal",0.402,70,0.365,0.774,0.0869,-11.946,0.358,0.0493,0.000732
+India,How You Like That,BLACKPINK,0.782,89,0.828,0.0694,0.0544,-4.014,0.351,0.0918,3.41e-05
+India,Namo Namo,Amit Trivedi,0.711,68,0.648,0.436,0.121,-6.216,0.33,0.0304,0.0
+India,Mehrama,"Pritam, Darshan Raval, Antara Mitra",0.632,66,0.56,0.861,0.0985,-9.033,0.373,0.0334,0.013
+India,Pal Pal Dil Ke Paas- Title Track,"Arijit Singh, Parampara Thakur",0.512,68,0.56,0.592,0.056,-7.185,0.39,0.0333,0.0
+India,lovely (with Khalid),"Billie Eilish, Khalid",0.296,89,0.351,0.934,0.095,-10.109,0.12,0.0333,0.0
+India,Intentions (feat. Quavo),"Justin Bieber, Quavo",0.546,87,0.806,0.3,0.102,-6.637,0.874,0.0575,0.0
+India,WAP (feat. Megan Thee Stallion),"Cardi B, Megan Thee Stallion",0.454,94,0.935,0.0194,0.0824,-7.509,0.357,0.375,0.0
+India,Feelings,Sumit Goswami,0.736,65,0.616,0.57,0.345,-3.708,0.673,0.0767,0.0
+India,"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)","Badshah, Neha Kakkar, Varun Dhawan",0.87,69,0.788,0.123,0.0692,-5.217,0.884,0.177,1.43e-05
+India,Haan Main Galat,"Pritam, Arijit Singh, Shashwat Singh",0.737,63,0.683,0.125,0.103,-5.66,0.919,0.0501,0.0106
+India,Believer,Imagine Dragons,0.78,88,0.776,0.0622,0.081,-4.374,0.666,0.128,0.0
+India,Udd Gaye - Bacardi House Party Sessions,Ritviz,0.818,67,0.595,0.000712,0.142,-6.189,0.48,0.0479,0.0386
+India,"Tera Ban Jaunga (From ""Kabir Singh"")","Akhil Sachdeva, Tulsi Kumar",0.53,60,0.605,0.822,0.131,-6.346,0.399,0.0246,0.0
+India,Laugh Now Cry Later (feat. Lil Durk),"Drake, Lil Durk",0.518,89,0.761,0.244,0.107,-8.871,0.522,0.134,3.47e-05
+United States,WAP (feat. Megan Thee Stallion),"Cardi B, Megan Thee Stallion",0.454,94,0.935,0.0194,0.0824,-7.509,0.357,0.375,0.0
+United States,Laugh Now Cry Later (feat. Lil Durk),"Drake, Lil Durk",0.518,89,0.761,0.244,0.107,-8.871,0.522,0.134,3.47e-05
+United States,ROCKSTAR (feat. Roddy Ricch),"DaBaby, Roddy Ricch",0.69,100,0.746,0.247,0.101,-7.956,0.497,0.164,0.0
+United States,Mood (feat. Iann Dior),"24kGoldn, iann dior",0.722,85,0.7,0.221,0.272,-3.558,0.756,0.0369,0.0
+United States,Wishing Well,Juice WRLD,0.613,88,0.65,0.00336,0.267,-6.13,0.0804,0.128,0.0
+United States,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix","Jack Harlow, Tory Lanez, DaBaby, Lil Wayne",0.723,93,0.904,0.0631,0.185,-5.224,0.835,0.26,0.0
+United States,Smile (with The Weeknd),"Juice WRLD, The Weeknd",0.685,86,0.694,0.224,0.124,-6.535,0.306,0.133,0.0
+United States,Come & Go (with Marshmello),"Juice WRLD, Marshmello",0.814,86,0.625,0.0172,0.158,-5.181,0.535,0.0657,0.0
+United States,7 Summers,Morgan Wallen,0.775,81,0.625,0.431,0.12,-5.199,0.588,0.0248,5.23e-05
+United States,For The Night (feat. Lil Baby & DaBaby),"Pop Smoke, Lil Baby, DaBaby",0.586,92,0.823,0.114,0.193,-6.606,0.347,0.2,0.0
+United States,Watermelon Sugar,Harry Styles,0.816,97,0.548,0.122,0.335,-4.209,0.557,0.0465,0.0
+United States,Mood Swings (feat. Lil Tjay),"Pop Smoke, Lil Tjay",0.602,90,0.48,0.487,0.0848,-6.335,0.269,0.368,0.0
+United States,Blinding Lights,The Weeknd,0.73,99,0.514,0.00146,0.0897,-5.934,0.334,0.0598,9.54e-05
+United States,Heather,Conan Gray,0.425,88,0.357,0.584,0.322,-7.301,0.27,0.0333,0.0
+United States,Blueberry Faygo,Lil Mosey,0.554,88,0.774,0.207,0.132,-7.909,0.349,0.0383,0.0
+United States,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",0.481,97,0.767,0.234,0.269,-8.52,0.761,0.0803,0.0
+United States,Midnight Sky,Miley Cyrus,0.814,84,0.705,0.00115,0.203,-5.466,0.259,0.0346,0.00312
+United States,The Woo (feat. 50 Cent & Roddy Ricch),"Pop Smoke, 50 Cent, Roddy Ricch",0.618,92,0.49,0.0221,0.259,-5.655,0.286,0.104,3.77e-06
+United States,Lemonade,"Internet Money, Gunna, Don Toliver, NAV",0.66,79,0.799,0.256,0.111,-6.153,0.471,0.079,0.0
+United States,Conversations,Juice WRLD,0.622,82,0.747,0.176,0.151,-5.825,0.57,0.0838,0.0
+United States,POPSTAR (feat. Drake),"DJ Khaled, Drake",0.56,91,0.8,0.057,0.134,-4.818,0.45,0.261,0.0
+United States,Roses - Imanbek Remix,"SAINt JHN, Imanbek",0.721,79,0.785,0.0149,0.285,-5.457,0.894,0.0506,0.00432
+United States,GREECE (feat. Drake),"DJ Khaled, Drake",0.343,91,0.695,0.0743,0.107,-10.798,0.229,0.0432,1.04e-06
+United States,Party Girl,StaySolidRocky,0.439,76,0.73,0.747,0.0988,-9.864,0.615,0.0609,0.0
+United States,Go Crazy,"Chris Brown, Young Thug",0.578,92,0.755,0.316,0.25,-8.932,0.581,0.145,0.0
+United States,cardigan,Taylor Swift,0.581,93,0.613,0.537,0.25,-8.588,0.551,0.0424,0.000345
+United States,We Paid (feat. 42 Dugg),"Lil Baby, 42 Dugg",0.542,87,0.926,0.135,0.0877,-5.064,0.564,0.293,0.0
+United States,Rags2Riches 2 (feat. Lil Baby),"Rod Wave, Lil Baby",0.443,81,0.874,0.147,0.124,-9.628,0.298,0.241,0.0
+United States,Hate The Other Side (with Marshmello & The Kid Laroi),"Juice WRLD, Marshmello, The Kid LAROI, Polo G",0.65,82,0.701,0.291,0.112,-6.313,0.647,0.104,0.0
+United States,exile (feat. Bon Iver),"Taylor Swift, Bon Iver",0.38,92,0.298,0.778,0.11,-8.426,0.152,0.0287,5.62e-05
+United States,death bed (coffee for your head),"Powfu, beabadoobee",0.431,95,0.726,0.731,0.696,-8.765,0.348,0.135,0.0
+United States,the 1,Taylor Swift,0.357,90,0.777,0.757,0.108,-6.942,0.172,0.0522,7.28e-06
+United States,The Box,Roddy Ricch,0.586,92,0.896,0.104,0.79,-6.687,0.642,0.0559,0.0
+United States,my future,Billie Eilish,0.309,92,0.444,0.795,0.352,-10.956,0.0875,0.062,0.132
+United States,DOLLAZ ON MY HEAD (feat. Young Thug),"Gunna, Young Thug",0.458,86,0.825,0.114,0.102,-7.47,0.161,0.0577,0.0
+United States,Be Like That - feat. Swae Lee & Khalid,"Kane Brown, Swae Lee, Khalid",0.626,86,0.727,0.0469,0.126,-8.415,0.322,0.0726,2.58e-05
+United States,Lucid Dreams,Juice WRLD,0.566,90,0.511,0.349,0.34,-7.23,0.218,0.2,0.0
+United States,Righteous,Juice WRLD,0.625,81,0.706,0.0417,0.129,-7.426,0.225,0.0314,0.0
+United States,All Girls Are The Same,Juice WRLD,0.529,87,0.671,0.0769,0.0856,-7.226,0.203,0.307,0.000335
+United States,Circles,Post Malone,0.762,91,0.695,0.192,0.0863,-3.497,0.553,0.0395,0.00244
+United States,Got It On Me,Pop Smoke,0.647,88,0.688,0.00815,0.095,-7.258,0.195,0.19,1.65e-05
+United States,Electric Love,BØRNS,0.797,86,0.611,0.00543,0.26,-7.627,0.518,0.0533,0.00137
+United States,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",0.522,83,0.755,0.533,0.0685,-4.368,0.925,0.0575,0.0
+United States,Tap In,Saweetie,0.696,85,0.954,0.00576,0.0754,-7.117,0.432,0.204,0.000498
+United States,Robbery,Juice WRLD,0.692,88,0.685,0.328,0.153,-5.122,0.578,0.0457,0.0
+United States,21,Polo G,0.479,86,0.783,0.149,0.101,-10.646,0.533,0.541,0.0
+United States,my ex's best friend (with blackbear),"Machine Gun Kelly, blackbear",0.685,83,0.728,0.00391,0.152,-5.096,0.33,0.0433,0.0
+United States,Flex (feat. Juice WRLD),"Polo G, Juice WRLD",0.673,86,0.752,0.0538,0.133,-5.792,0.35,0.153,0.0
+United States,Sunday Best,Surfaces,0.525,91,0.878,0.183,0.0714,-6.832,0.694,0.0578,0.0
+United States,GO (feat. Juice WRLD),"The Kid LAROI, Juice WRLD",0.74,82,0.487,0.157,0.612,-4.973,0.522,0.0944,0.0
+Germany,Unterwegs,"KitschKrieg, Jamule",0.607,79,0.88,0.195,0.15,-7.067,0.823,0.0777,0.0537
+Germany,Playlist,"Ufo361, Sonus030",0.671,75,0.778,0.118,0.114,-8.382,0.423,0.0959,0.00072
+Germany,Bläulich,Apache 207,0.704,75,0.79,0.069,0.113,-7.935,0.212,0.417,0.000658
+Germany,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",0.481,97,0.767,0.234,0.269,-8.52,0.761,0.0803,0.0
+Germany,Unterwegs,Apache 207,0.772,74,0.706,0.376,0.0884,-6.765,0.304,0.189,8.76e-06
+Germany,Andere Welt,"Capital Bra, Clueso, KC Rebell",0.764,81,0.692,0.574,0.106,-5.233,0.564,0.113,0.0
+Germany,ROCKSTAR (feat. Roddy Ricch),"DaBaby, Roddy Ricch",0.69,100,0.746,0.247,0.101,-7.956,0.497,0.164,0.0
+Germany,Sie ruft,Apache 207,0.507,80,0.819,0.482,0.105,-7.336,0.634,0.0881,0.00628
+Germany,Tilidin Weg,Bonez MC,0.53,81,0.882,0.113,0.0838,-8.544,0.171,0.233,0.479
+Germany,24 Stunden,Samra,0.715,77,0.79,0.268,0.124,-6.977,0.187,0.281,0.0
+Germany,Alane,"Robin Schulz, Wes",0.799,86,0.581,0.0419,0.11,-6.66,0.662,0.164,9.43e-06
+Germany,Airwaves,Pashanim,0.578,82,0.885,0.0739,0.102,-7.416,0.388,0.0783,0.0903
+Germany,Never Let Me Down,"VIZE, Tom Gregory",0.848,60,0.758,0.207,0.114,-3.84,0.706,0.0456,0.0
+Germany,Laugh Now Cry Later (feat. Lil Durk),"Drake, Lil Durk",0.518,89,0.761,0.244,0.107,-8.871,0.522,0.134,3.47e-05
+Germany,In meinem Benz,"AK AUSSERKONTROLLE, Bonez MC",0.666,81,0.786,0.167,0.235,-5.266,0.737,0.536,0.0
+Germany,Lovefool,twocolors,0.766,84,0.677,0.0219,0.129,-6.896,0.198,0.0568,6.81e-06
+Germany,fastlane,"Jamule, Santos",0.534,78,0.811,0.398,0.0956,-7.442,0.925,0.0944,0.0
+Germany,Fame,Apache 207,0.659,74,0.813,0.185,0.0981,-7.993,0.507,0.0967,0.0
+Germany,Watermelon Sugar,Harry Styles,0.816,97,0.548,0.122,0.335,-4.209,0.557,0.0465,0.0
+Germany,GREECE (feat. Drake),"DJ Khaled, Drake",0.343,91,0.695,0.0743,0.107,-10.798,0.229,0.0432,1.04e-06
+Germany,Perspektive,MERO,0.715,71,0.672,0.303,0.155,-6.255,0.768,0.285,0.0
+Germany,Blinding Lights,The Weeknd,0.73,99,0.514,0.00146,0.0897,-5.934,0.334,0.0598,9.54e-05
+Germany,AMG,"Kool Savas, Alies",0.623,74,0.736,0.18,0.328,-4.688,0.368,0.163,0.0
+Germany,Head & Heart (feat. MNEK),"Joel Corry, MNEK",0.874,91,0.734,0.168,0.0489,-3.158,0.905,0.0662,1.14e-05
+Germany,Sinne,Sarhad,0.603,78,0.861,0.16,0.119,-6.209,0.435,0.106,0.000311
+Germany,Boot,Apache 207,0.565,72,0.534,0.0627,0.112,-7.546,0.529,0.307,0.00222
+Germany,Shit Changed,"Ufo361, Sonus030",0.528,79,0.826,0.141,0.104,-9.221,0.318,0.175,0.000362
+Germany,Hollywood,"LA Vision, Gigi D'Agostino",0.793,78,0.744,0.00851,0.363,-6.02,0.325,0.0291,0.000231
+Germany,Come & Go (with Marshmello),"Juice WRLD, Marshmello",0.814,86,0.625,0.0172,0.158,-5.181,0.535,0.0657,0.0
+Germany,QN,"KC Rebell, Summer Cem",0.555,76,0.88,0.0264,0.67,-6.623,0.415,0.255,3.12e-06
+Germany,Breaking Me,"Topic, A7S",0.72,96,0.789,0.223,0.129,-5.652,0.664,0.218,0.0
+Germany,WEISSER RAUCH,FOURTY,0.781,72,0.633,0.0623,0.124,-5.778,0.749,0.126,9.01e-05
+Germany,Ma Bae,Dardan,0.787,77,0.826,0.404,0.0933,-4.884,0.555,0.0339,2.81e-05
+Germany,XXL,"Miksu / Macloud, Summer Cem, Luciano, Jamule",0.527,80,0.798,0.227,0.108,-7.671,0.548,0.0447,3.82e-06
+Germany,Roses - Imanbek Remix,"SAINt JHN, Imanbek",0.721,79,0.785,0.0149,0.285,-5.457,0.894,0.0506,0.00432
+Germany,Lonely,"Tujamo, VIZE, MAJAN",0.823,77,0.667,0.0607,0.0771,-3.797,0.35,0.0673,0.0
+Germany,Mood Swings (feat. Lil Tjay),"Pop Smoke, Lil Tjay",0.602,90,0.48,0.487,0.0848,-6.335,0.269,0.368,0.0
+Germany,WAP (feat. Megan Thee Stallion),"Cardi B, Megan Thee Stallion",0.454,94,0.935,0.0194,0.0824,-7.509,0.357,0.375,0.0
+Germany,Roller,Apache 207,0.758,76,0.941,0.0256,0.193,-6.47,0.683,0.17,0.00258
+Germany,Details,"Dardan, reezy",0.505,69,0.839,0.155,0.141,-7.945,0.667,0.0555,5.67e-05
+Germany,Some Say - Felix Jaehn Remix,"Nea, Felix Jaehn",0.7,89,0.682,0.406,0.174,-5.591,0.637,0.0397,0.0
+Germany,Cinderella,Pietro Lombardi,0.794,78,0.77,0.0305,0.11,-4.921,0.362,0.183,0.0
+Germany,International Criminal,"KitschKrieg, Bonez MC, Vybz Kartel",0.594,71,0.741,0.0255,0.095,-7.478,0.489,0.419,1.43e-05
+Germany,Übermorgen,Mark Forster,0.829,78,0.583,0.0218,0.137,-4.715,0.393,0.103,0.0
+Germany,Mario Run,Symba,0.524,74,0.672,0.0442,0.259,-12.3,0.276,0.0987,0.0
+Germany,Tiefschwarz (feat. Samra),"Kontra K, Samra",0.783,80,0.751,0.0715,0.114,-5.926,0.379,0.22,1.94e-05
+Germany,Cooler Than Me,Lucky Luke,0.716,83,0.889,0.0595,0.168,-6.146,0.296,0.0708,0.0409
+Germany,Kings & Queens,Ava Max,0.688,92,0.638,0.00775,0.126,-4.056,0.434,0.0407,0.0
+Germany,Big Body Benz,Bonez MC,0.451,79,0.884,0.0731,0.268,-8.969,0.311,0.393,0.00573
+Germany,To The Moon,Nimo,0.657,67,0.801,0.0559,0.284,-5.571,0.618,0.0462,0.0425
+Brazil,Oh Juliana,Niack,0.568,85,0.799,0.387,0.0892,-3.089,0.963,0.25,0.0
+Brazil,Desce Pro Play (PA PA PA),"Mc Zaac, Anitta, Tyga",0.71,86,0.935,0.0769,0.173,-5.085,0.635,0.158,1.92e-06
+Brazil,Investe Em Mim,Jonas Esticado,0.953,83,0.632,0.317,0.125,-1.283,0.798,0.0325,0.0
+Brazil,Poesia Acústica #9: Melhor Forma,"Pineapple StormTv, L7NNON, Chris MC, Xamã, Lourena, César Mc, Djonga, Filipe Ret",0.688,82,0.733,0.455,0.117,-5.458,0.654,0.0672,0.0
+Brazil,Na Raba Toma Tapão,Niack,0.787,83,0.962,0.666,0.176,1.509,0.968,0.0554,5.74e-05
+Brazil,Vai Ter Que Aguentar,"Mc Don Juan, Maiara & Maraisa",0.558,82,0.691,0.331,0.0545,-6.64,0.905,0.0455,0.0
+Brazil,Tudo Aconteceu,"MC Du Black, Delacruz",0.346,82,0.579,0.86,0.0945,-13.975,0.741,0.368,2.02e-06
+Brazil,Quero Você do Jeito Que Quiser,"Marília Mendonça, Maiara & Maraisa",0.604,80,0.698,0.501,0.251,-4.574,0.353,0.0457,0.0
+Brazil,Volta por Baixo - Ao Vivo,Henrique & Juliano,0.771,74,0.531,0.386,0.942,-5.897,0.467,0.05,0.0
+Brazil,Sogra - Ao Vivo,"Dilsinho, Henrique & Juliano",0.74,62,0.52,0.555,0.951,-7.185,0.778,0.0703,0.0
+Brazil,Comprei um Lança,Mc Jacare,0.723,81,0.652,0.238,0.0719,-7.58,0.53,0.112,0.000349
+Brazil,Ranking,Jorge & Mateus,0.846,82,0.666,0.0883,0.084,-3.654,0.782,0.174,0.0
+Brazil,Flores,"Vitão, Luísa Sonza",0.599,81,0.626,0.255,0.16,-5.869,0.621,0.103,0.0
+Brazil,TOMA,"Luísa Sonza, Mc Zaac",0.597,75,0.762,0.0999,0.19,-5.306,0.267,0.282,0.0
+Brazil,Barzinho Aleatório - Ao Vivo,Zé Neto & Cristiano,0.918,81,0.394,0.342,0.982,-2.657,0.588,0.334,0.0
+Brazil,Graveto - Ao Vivo,Marília Mendonça,0.632,82,0.714,0.292,0.812,-5.1,0.402,0.0312,0.0
+Brazil,Litrão - Ao Vivo,Matheus & Kauan,0.807,71,0.48,0.356,0.626,-7.402,0.536,0.195,0.0
+Brazil,Watermelon Sugar,Harry Styles,0.816,97,0.548,0.122,0.335,-4.209,0.557,0.0465,0.0
+Brazil,Deus é por nós,MC Marks,0.475,80,0.782,0.247,0.0785,-9.535,0.441,0.132,0.0
+Brazil,Te Prometo,"Dennis DJ, Mc Don Juan",0.645,81,0.818,0.0917,0.0992,-5.325,0.868,0.274,0.0
+Brazil,Nem Doeu - Ao Vivo,Matheus & Kauan,0.887,80,0.591,0.145,0.23,-7.909,0.659,0.236,0.0
+Brazil,Tudo no Sigilo (Vytinho NG e Bianca),"Vytinho NG, Bianca",0.7,81,0.662,0.591,0.0709,-5.148,0.705,0.0479,0.00238
+Brazil,BRABA,Luísa Sonza,0.689,81,0.811,0.181,0.0784,-5.113,0.663,0.0615,2.55e-05
+Brazil,se essa vida fosse um filme,Giulia Be,0.544,74,0.505,0.726,0.41,-7.607,0.753,0.18,0.0
+Brazil,Não Vai Embora,"Dilsinho, Luísa Sonza, Malibu",0.723,79,0.605,0.488,0.333,-6.312,0.57,0.0383,0.0
+Brazil,Liberdade Provisória - Ao Vivo,Henrique & Juliano,0.684,73,0.668,0.627,0.923,-5.937,0.7,0.0527,0.0
+Brazil,Desejando Eu (Ao Vivo),"Murilo Huff, Henrique & Juliano",0.883,79,0.683,0.377,0.407,-2.502,0.678,0.0691,0.0
+Brazil,A Gente Fez Amor - Ao Vivo,Gusttavo Lima,0.937,81,0.793,0.366,0.962,-2.44,0.827,0.0336,4.27e-06
+Brazil,Talarica,"Rennan da Penha, MC 2jhow",0.895,65,0.826,0.22,0.0572,-4.828,0.623,0.49,0.0
+Brazil,Viva Voz - Ao Vivo,Lauana Prado,0.848,80,0.741,0.0518,0.491,-3.64,0.885,0.0282,0.0
+Brazil,S de Saudade,"Luíza & Maurílio, Zé Neto & Cristiano",0.712,80,0.714,0.621,0.127,-4.403,0.789,0.0545,0.0
+Brazil,Blinding Lights,The Weeknd,0.73,99,0.514,0.00146,0.0897,-5.934,0.334,0.0598,9.54e-05
+Brazil,Roses - Imanbek Remix,"SAINt JHN, Imanbek",0.721,79,0.785,0.0149,0.285,-5.457,0.894,0.0506,0.00432
+Brazil,menina solta,Giulia Be,0.559,79,0.632,0.331,0.16,-6.74,0.674,0.0794,0.0
+Brazil,Tá Rocheda,Os Barões Da Pisadinha,0.886,78,0.775,0.589,0.0991,-6.68,0.939,0.0477,7.32e-06
+Brazil,WAP (feat. Megan Thee Stallion),"Cardi B, Megan Thee Stallion",0.454,94,0.935,0.0194,0.0824,-7.509,0.357,0.375,0.0
+Brazil,Despedida - Ao Vivo,"Wesley Safadão, Zé Neto & Cristiano",0.806,79,0.428,0.16,0.681,-6.317,0.637,0.207,0.0
+Brazil,"Rave do Papa - Deluxe (feat. Mc Rennan, MC Bruna Alves, MC BN & MC Rick) - Remix","Dj W-Beatz, Ventura, Mc Rennan, MC Bruna Alves, MC BN, MC Rick",0.896,78,0.804,0.504,0.0778,-2.814,0.636,0.298,0.000154
+Brazil,Pipa Voada (feat. Emicida),"Rashid, Lukinhas, Emicida",0.732,77,0.758,0.489,0.13,-5.511,0.924,0.051,0.0
+Brazil,Melhor Eu Ir / Ligando os Fatos / Sonho de Amor / Deixa Eu Te Querer (Ao Vivo),"Grupo Menos É Mais, Di Propósito, Vou Zuar",0.798,78,0.437,0.603,0.552,-3.928,0.706,0.0792,0.0
+Brazil,Libera Ela - Ao Vivo,"Maiara & Maraisa, Dilsinho",0.649,79,0.769,0.384,0.949,-4.864,0.834,0.0714,0.0
+Brazil,Recairei - Ao Vivo,Os Barões Da Pisadinha,0.937,77,0.583,0.449,0.684,-2.118,0.938,0.0861,0.0
+Brazil,Briga Feia - Ao Vivo,Henrique & Juliano,0.846,72,0.59,0.108,0.93,-5.501,0.565,0.0616,0.0
+Brazil,Don't Start Now,Dua Lipa,0.793,88,0.793,0.0123,0.0951,-4.521,0.679,0.083,0.0
+Brazil,Não Valeu,Wesley Safadão,0.841,78,0.803,0.556,0.0975,-4.117,0.832,0.0344,1.47e-06
+Brazil,Mentira - Ao Vivo,Felipe Araújo,0.756,63,0.543,0.447,0.95,-3.755,0.569,0.238,0.0
+Brazil,Segunda Taça - Ao Vivo,"João Bosco & Vinicius, Matheus",0.867,78,0.61,0.471,0.83,-3.94,0.717,0.176,0.0
+Brazil,Saudade Sua,Gusttavo Lima,0.839,79,0.616,0.292,0.268,-2.895,0.348,0.106,0.0
+Brazil,Amor de Fim de Noite,"Orochi, Papatinho",0.427,72,0.473,0.842,0.0839,-9.693,0.694,0.066,0.0
+Brazil,Cheirosa - Ao Vivo,Jorge & Mateus,0.87,78,0.528,0.24,0.333,-3.123,0.714,0.0851,0.0
+Colombia,Hawái,Maluma,0.728,88,0.787,0.189,0.0629,-3.455,0.545,0.389,2.29e-05
+Colombia,"Ay, DiOs Mío!",KAROL G,0.712,90,0.718,0.512,0.104,-4.366,0.531,0.174,0.00121
+Colombia,La Curiosidad,"Jay Wheeler, DJ Nelson, Myke Towers",0.677,92,0.845,0.269,0.108,-4.798,0.68,0.136,0.000917
+Colombia,Tattoo - Remix with Camilo,"Rauw Alejandro, Camilo",0.637,92,0.848,0.0413,0.0521,-5.132,0.698,0.156,0.0
+Colombia,"Agua (with J Balvin) - Music From ""Sponge On The Run"" Movie","Tainy, J Balvin",0.658,92,0.76,0.162,0.195,-5.275,0.565,0.275,0.0
+Colombia,UN DIA (ONE DAY) (Feat. Tainy),"J Balvin, Tainy, Dua Lipa, Bad Bunny",0.693,93,0.571,0.00536,0.173,-8.234,0.393,0.0545,0.0
+Colombia,La Jeepeta - Remix,"Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka",0.714,82,0.814,0.297,0.091,-4.65,0.789,0.207,4.89e-06
+Colombia,Relación,Sech,0.562,90,0.805,0.125,0.148,-3.117,0.767,0.105,4.96e-06
+Colombia,Caramelo,Ozuna,0.806,93,0.728,0.0531,0.153,-3.766,0.698,0.0623,0.000301
+Colombia,Rojo,J Balvin,0.598,83,0.663,0.193,0.0856,-4.042,0.4,0.17,8.02e-05
+Colombia,Anaranjado,"Jowell & Randy, J Balvin",0.58,67,0.763,0.0466,0.154,-6.196,0.608,0.144,1.6e-05
+Colombia,"PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix","Feid, J Balvin, Maluma, Nicky Jam, Sech, Justin Quiles",0.737,86,0.793,0.0765,0.0747,-4.731,0.697,0.0785,0.0
+Colombia,Azul,J Balvin,0.836,89,0.843,0.0816,0.0532,-2.474,0.65,0.0695,0.00138
+Colombia,Favorito,Camilo,0.853,82,0.606,0.237,0.251,-2.975,0.822,0.0545,0.0
+Colombia,Quiéreme Mientras Se Pueda,Manuel Turizo,0.782,84,0.793,0.447,0.124,-3.945,0.81,0.0582,0.0
+Colombia,Djadja (feat. Maluma) - Remix,"Aya Nakamura, Maluma",0.682,91,0.791,0.175,0.0926,-7.328,0.672,0.158,0.0
+Colombia,La Oficial - Remix,"Andy Rivera, Zion & Lennox",0.75,68,0.846,0.188,0.138,-3.666,0.742,0.216,0.0
+Colombia,Elegí (feat. Dímelo Flow),"Rauw Alejandro, Dalex, Lenny Tavárez, Dímelo Flow",0.631,89,0.824,0.237,0.0531,-2.791,0.678,0.0809,0.000116
+Colombia,El Mismo Aire - con Pablo Alborán,"Camilo, Pablo Alborán",0.492,86,0.483,0.603,0.323,-6.591,0.66,0.295,0.0
+Colombia,PORFA,"Feid, Justin Quiles",0.542,80,0.795,0.0903,0.117,-8.106,0.55,0.193,0.0
+Colombia,Cuenta Conmigo (feat. Mozart La Para),"Mike Bahía, Llane, Pj Sin Suela, Mozart La Para",0.677,72,0.898,0.132,0.132,-4.608,0.958,0.127,0.0
+Colombia,Los Besos,Greeicy,0.762,78,0.503,0.0756,0.0919,-4.263,0.598,0.298,9.84e-06
+Colombia,Blinding Lights,The Weeknd,0.73,99,0.514,0.00146,0.0897,-5.934,0.334,0.0598,9.54e-05
+Colombia,Los Consejos,Greeicy,0.534,75,0.703,0.17,0.105,-6.302,0.399,0.0868,0.0
+Colombia,ADMV,Maluma,0.39,84,0.565,0.817,0.126,-4.959,0.708,0.0556,0.0
+Colombia,Hasta Que Dios Diga,"Anuel AA, Bad Bunny",0.765,90,0.691,0.464,0.203,-4.727,0.855,0.111,3.29e-06
+Colombia,Tak Tiki Tak,Harry Nach,0.579,86,0.801,0.333,0.172,-4.78,0.231,0.0813,0.000355
+Colombia,CÓMO SE SIENTE - Remix,"Jhay Cortez, Bad Bunny",0.606,88,0.807,0.0946,0.119,-8.871,0.304,0.088,0.0
+Colombia,Hola - Remix,"Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow",0.672,85,0.654,0.471,0.0781,-5.98,0.343,0.311,0.0
+Colombia,Tusa,"KAROL G, Nicki Minaj",0.715,91,0.803,0.295,0.0574,-3.28,0.574,0.298,0.000134
+Colombia,Amarillo,J Balvin,0.857,86,0.641,0.013,0.0695,-5.725,0.961,0.301,0.00534
+Colombia,Mamichula - con Nicki Nicole,"Trueno, Nicki Nicole, Bizarrap, Taiu, TATOOL",0.678,90,0.696,0.582,0.134,-5.893,0.346,0.0735,2.22e-06
+Colombia,Tattoo,Rauw Alejandro,0.617,86,0.755,0.0217,0.0625,-5.144,0.745,0.182,0.0
+Colombia,Locura,"Cali Y El Dandee, Sebastian Yatra",0.769,82,0.643,0.0858,0.205,-3.533,0.532,0.0877,0.0
+Colombia,Morado,J Balvin,0.68,79,0.885,0.131,0.0875,-3.837,0.78,0.0848,1.77e-05
+Colombia,+Linda,Dalex,0.503,83,0.66,0.131,0.13,-5.501,0.396,0.34,0.0
+Colombia,Safaera,"Bad Bunny, Jowell & Randy, Ñengo Flow",0.829,89,0.607,0.0103,0.107,-4.074,0.685,0.379,0.0
+Colombia,Sigues Con El,"Dímelo Flow, Arcangel, Sech",0.668,84,0.883,0.11,0.0734,-2.957,0.676,0.113,0.000529
+Colombia,Diosa,Myke Towers,0.745,85,0.801,0.398,0.153,-3.733,0.245,0.063,0.00603
+Colombia,Por Primera Vez,"Camilo, Evaluna Montaner",0.606,77,0.72,0.143,0.0824,-3.54,0.805,0.116,0.0
+Colombia,Jangueo,"Alex Rose, Rafa Pabön",0.688,86,0.851,0.238,0.105,-4.038,0.732,0.0565,1.93e-05
+Colombia,Yo Perreo Sola,Bad Bunny,0.758,89,0.86,0.021,0.344,-5.16,0.453,0.0695,6.54e-05
+Colombia,BORRAXXA,"Feid, Manuel Turizo",0.617,69,0.852,0.104,0.0862,-5.251,0.793,0.0834,0.00208
+Colombia,LA CANCIÓN,"J Balvin, Bad Bunny",0.646,85,0.754,0.152,0.108,-5.795,0.429,0.317,1.85e-05
+Colombia,Si Me Dices Que Sí,"Reik, Farruko, Camilo",0.634,83,0.578,0.00473,0.132,-5.979,0.216,0.333,0.0
+Colombia,Dance Monkey,Tones And I,0.593,71,0.825,0.688,0.17,-6.401,0.54,0.0988,0.000161
+Colombia,No Te Vayas,"Yandel, J Balvin",0.799,76,0.717,0.211,0.259,-3.737,0.619,0.0525,3.42e-06
+Colombia,Ignorantes,"Bad Bunny, Sech",0.536,80,0.85,0.267,0.0996,-5.161,0.505,0.0599,3.89e-05
+Colombia,Fantasias,"Rauw Alejandro, Farruko",0.703,84,0.879,0.143,0.0569,-4.219,0.788,0.0701,0.0
+Colombia,No Me Conoce - Remix,"Jhay Cortez, J Balvin, Bad Bunny",0.786,81,0.806,0.145,0.0935,-3.831,0.58,0.0741,0.0
+Japan,夜に駆ける,YOASOBI,0.874,82,0.67,0.00231,0.3,-5.221,0.789,0.0305,1.72e-05
+Japan,香水,Eito,0.352,74,0.848,0.824,0.0906,-6.838,0.776,0.041,0.0
+Japan,Kanden,Kenshi Yonezu,0.723,60,0.633,0.107,0.0818,-5.733,0.688,0.143,0.0
+Japan,裸の心,Aimyon,0.448,75,0.559,0.537,0.0915,-4.11,0.354,0.0275,1.85e-05
+Japan,Make you happy,NiziU,0.885,65,0.78,0.0436,0.105,-3.745,0.808,0.122,2.8e-05
+Japan,Pretender,Official HIGE DANdism,0.869,57,0.538,0.047,0.14,-3.464,0.369,0.0275,0.0
+Japan,I Love...,Official HIGE DANdism,0.706,55,0.54,0.0171,0.225,-5.235,0.385,0.0543,0.0
+Japan,115万キロのフィルム,Official HIGE DANdism,0.791,74,0.516,0.00345,0.141,-1.927,0.48,0.0318,0.0
+Japan,Neko - The First Take Version,DISH//,0.576,53,0.641,0.564,0.114,-6.772,0.622,0.139,0.0
+Japan,Lemon,Kenshi Yonezu,0.646,58,0.525,0.304,0.297,-4.963,0.373,0.0268,0.0
+Japan,白日,King Gnu,0.891,58,0.605,0.562,0.322,-3.242,0.697,0.115,0.0
+Japan,Myra,Tani Yuuki,0.318,73,0.683,0.71,0.167,-13.335,0.587,0.0349,9.05e-05
+Japan,春を告げる,yama,0.871,74,0.548,0.0397,0.357,-5.377,0.487,0.123,0.0
+Japan,Shukumei,Official HIGE DANdism,0.577,51,0.547,0.0152,0.109,-6.087,0.494,0.0336,0.0
+Japan,Laughter,Official HIGE DANdism,0.801,71,0.396,0.023,0.138,-4.673,0.366,0.035,0.0
+Japan,snow jam,"Rin音, RhymeTube",0.627,71,0.583,0.185,0.159,-5.842,0.805,0.201,0.0
+Japan,Uma to Shika,Kenshi Yonezu,0.447,54,0.643,0.0978,0.286,-6.411,0.676,0.0256,0.0
+Japan,HELLO,Official HIGE DANdism,0.883,69,0.526,0.000764,0.37,-4.335,0.538,0.035,0.0
+Japan,たぶん,YOASOBI,0.666,72,0.747,0.146,0.0981,-6.395,0.731,0.0324,0.000912
+Japan,Yesterday,Official HIGE DANdism,0.8,54,0.541,0.0442,0.398,-3.687,0.56,0.0382,0.0
+Japan,ハルジオン,YOASOBI,0.902,74,0.686,0.0591,0.333,-2.657,0.901,0.034,0.0
+Japan,マリーゴールド,Aimyon,0.745,72,0.545,0.0452,0.0907,-3.098,0.413,0.0286,0.0
+Japan,ノーダウト,Official HIGE DANdism,0.936,73,0.574,0.0585,0.336,-3.185,0.792,0.0701,0.0
+Japan,Machigaisagashi,Masaki Suda,0.642,54,0.534,0.52,0.39,-5.568,0.443,0.0372,0.0
+Japan,ただ君に晴れ,ヨルシカ,0.834,73,0.679,0.343,0.119,-3.223,0.962,0.032,5.74e-06
+Japan,パラボラ,Official HIGE DANdism,0.765,71,0.564,0.00175,0.332,-5.484,0.353,0.0328,0.0
+Japan,PLACEBO,"Kenshi Yonezu, Yojiro Noda",0.852,56,0.77,0.0714,0.063,-5.564,0.833,0.0789,0.0
+Japan,Walking with you,Novelbright,0.969,72,0.422,0.00585,0.533,-0.824,0.496,0.0591,0.0
+Japan,青と夏,Mrs. GREEN APPLE,0.891,71,0.31,0.00157,0.284,-1.66,0.748,0.0469,0.0
+Japan,キンモクセイ,オレンジスパイニクラブ,0.761,67,0.554,0.0991,0.145,-3.937,0.327,0.034,0.0
+Japan,Night Diver,三浦春馬,0.862,70,0.682,0.0354,0.341,-4.824,0.643,0.172,0.0
+Japan,Gurenge,LiSA,0.979,77,0.545,0.00339,0.0775,-2.8,0.309,0.153,0.000118
+Japan,点描の唄,"Mrs. GREEN APPLE, Sonoko Inoue",0.632,72,0.502,0.447,0.103,-4.612,0.308,0.0273,0.0
+Japan,僕のこと,Mrs. GREEN APPLE,0.708,71,0.439,0.0129,0.147,-3.825,0.454,0.0528,0.0
+Japan,ハルノヒ,Aimyon,0.673,71,0.591,0.263,0.109,-2.445,0.525,0.0294,0.0
+Japan,花に亡霊,ヨルシカ,0.45,61,0.646,0.573,0.0768,-6.628,0.413,0.0482,0.0
+Japan,Flamingo,Kenshi Yonezu,0.668,55,0.76,0.165,0.0917,-6.0,0.913,0.0546,0.0
+Japan,パプリカ,Kenshi Yonezu,0.554,54,0.758,0.303,0.126,-7.249,0.459,0.0412,0.0
+Japan,Machigai Sagashi,Kenshi Yonezu,0.533,52,0.511,0.628,0.165,-8.229,0.405,0.0577,0.0
+Japan,インフェルノ,Mrs. GREEN APPLE,0.918,72,0.533,0.00894,0.643,-2.095,0.662,0.0616,0.0
+Japan,未完成,Leo Ieiri,0.722,71,0.66,0.163,0.306,-3.525,0.425,0.0344,0.0
+Japan,Campanella,Kenshi Yonezu,0.853,57,0.448,0.0806,0.0706,-5.661,0.786,0.164,0.0
+Japan,Peace Sign,Kenshi Yonezu,0.935,73,0.593,0.00221,0.315,-3.853,0.618,0.0684,0.0
+Japan,Spirits of the Sea,Kenshi Yonezu,0.397,50,0.518,0.721,0.126,-10.249,0.177,0.0386,3.27e-06
+Japan,Loser,Kenshi Yonezu,0.931,58,0.679,0.00466,0.0652,-3.74,0.962,0.0474,0.0
+Japan,Himawari,Kenshi Yonezu,0.874,51,0.537,0.00116,0.375,-6.277,0.707,0.0517,0.0
+Japan,Yasashii Hito,Kenshi Yonezu,0.231,52,0.551,0.806,0.333,-9.838,0.523,0.0264,0.0
+Japan,Stray Sheep,Kenshi Yonezu,0.705,51,0.58,0.053,0.281,-7.41,0.217,0.032,0.0
+Japan,TEENAGE RIOT,Kenshi Yonezu,0.949,49,0.67,0.0026,0.0977,-5.525,0.467,0.11,0.0
+Japan,Neko,DISH//,0.769,46,0.505,0.113,0.0828,-5.326,0.537,0.0363,0.0
+Australia,WAP (feat. Megan Thee Stallion),"Cardi B, Megan Thee Stallion",0.454,94,0.935,0.0194,0.0824,-7.509,0.357,0.375,0.0
+Australia,Laugh Now Cry Later (feat. Lil Durk),"Drake, Lil Durk",0.518,89,0.761,0.244,0.107,-8.871,0.522,0.134,3.47e-05
+Australia,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",0.481,97,0.767,0.234,0.269,-8.52,0.761,0.0803,0.0
+Australia,ROCKSTAR (feat. Roddy Ricch),"DaBaby, Roddy Ricch",0.69,100,0.746,0.247,0.101,-7.956,0.497,0.164,0.0
+Australia,Mood Swings (feat. Lil Tjay),"Pop Smoke, Lil Tjay",0.602,90,0.48,0.487,0.0848,-6.335,0.269,0.368,0.0
+Australia,Breaking Me,"Topic, A7S",0.72,96,0.789,0.223,0.129,-5.652,0.664,0.218,0.0
+Australia,Watermelon Sugar,Harry Styles,0.816,97,0.548,0.122,0.335,-4.209,0.557,0.0465,0.0
+Australia,Come & Go (with Marshmello),"Juice WRLD, Marshmello",0.814,86,0.625,0.0172,0.158,-5.181,0.535,0.0657,0.0
+Australia,Head & Heart (feat. MNEK),"Joel Corry, MNEK",0.874,91,0.734,0.168,0.0489,-3.158,0.905,0.0662,1.14e-05
+Australia,Smile (with The Weeknd),"Juice WRLD, The Weeknd",0.685,86,0.694,0.224,0.124,-6.535,0.306,0.133,0.0
+Australia,Roses - Imanbek Remix,"SAINt JHN, Imanbek",0.721,79,0.785,0.0149,0.285,-5.457,0.894,0.0506,0.00432
+Australia,Blinding Lights,The Weeknd,0.73,99,0.514,0.00146,0.0897,-5.934,0.334,0.0598,9.54e-05
+Australia,Mood (feat. Iann Dior),"24kGoldn, iann dior",0.722,85,0.7,0.221,0.272,-3.558,0.756,0.0369,0.0
+Australia,Wishing Well,Juice WRLD,0.613,88,0.65,0.00336,0.267,-6.13,0.0804,0.128,0.0
+Australia,Go Crazy,"Chris Brown, Young Thug",0.578,92,0.755,0.316,0.25,-8.932,0.581,0.145,0.0
+Australia,Some Say - Felix Jaehn Remix,"Nea, Felix Jaehn",0.7,89,0.682,0.406,0.174,-5.591,0.637,0.0397,0.0
+Australia,Heather,Conan Gray,0.425,88,0.357,0.584,0.322,-7.301,0.27,0.0333,0.0
+Australia,The Woo (feat. 50 Cent & Roddy Ricch),"Pop Smoke, 50 Cent, Roddy Ricch",0.618,92,0.49,0.0221,0.259,-5.655,0.286,0.104,3.77e-06
+Australia,you broke me first,Tate McRae,0.374,89,0.642,0.786,0.0906,-9.386,0.0799,0.0545,0.0
+Australia,Rain On Me (with Ariana Grande),"Lady Gaga, Ariana Grande",0.855,87,0.672,0.021,0.323,-3.764,0.646,0.0397,0.0
+Australia,For The Night (feat. Lil Baby & DaBaby),"Pop Smoke, Lil Baby, DaBaby",0.586,92,0.823,0.114,0.193,-6.606,0.347,0.2,0.0
+Australia,Someone You Loved,Lewis Capaldi,0.405,91,0.501,0.751,0.105,-5.679,0.446,0.0319,0.0
+Australia,death bed (coffee for your head),"Powfu, beabadoobee",0.431,95,0.726,0.731,0.696,-8.765,0.348,0.135,0.0
+Australia,Stuck with U (with Justin Bieber),"Ariana Grande, Justin Bieber",0.45,93,0.597,0.223,0.382,-6.658,0.537,0.0418,0.0
+Australia,Secrets,"Regard, RAYE",0.768,89,0.848,0.0412,0.195,-5.386,0.777,0.0373,0.000785
+Australia,Before You Go,Lewis Capaldi,0.575,85,0.459,0.604,0.0885,-4.858,0.183,0.0573,0.0
+Australia,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix","Jack Harlow, Tory Lanez, DaBaby, Lil Wayne",0.723,93,0.904,0.0631,0.185,-5.224,0.835,0.26,0.0
+Australia,cardigan,Taylor Swift,0.581,93,0.613,0.537,0.25,-8.588,0.551,0.0424,0.000345
+Australia,Break My Heart,Dua Lipa,0.729,89,0.73,0.167,0.349,-3.434,0.467,0.0883,1.39e-06
+Australia,Midnight Sky,Miley Cyrus,0.814,84,0.705,0.00115,0.203,-5.466,0.259,0.0346,0.00312
+Australia,Intentions (feat. Quavo),"Justin Bieber, Quavo",0.546,87,0.806,0.3,0.102,-6.637,0.874,0.0575,0.0
+Australia,my future,Billie Eilish,0.309,92,0.444,0.795,0.352,-10.956,0.0875,0.062,0.132
+Australia,POPSTAR (feat. Drake),"DJ Khaled, Drake",0.56,91,0.8,0.057,0.134,-4.818,0.45,0.261,0.0
+Australia,Be Kind (with Halsey),"Marshmello, Halsey",0.633,91,0.63,0.00776,0.0541,-7.088,0.452,0.0457,0.0
+Australia,Party Girl,StaySolidRocky,0.439,76,0.73,0.747,0.0988,-9.864,0.615,0.0609,0.0
+Australia,Look into My Eyes,Brando,0.545,46,0.789,0.122,0.123,-7.14,0.433,0.0538,4.62e-05
+Australia,Dance Monkey,Tones And I,0.593,71,0.825,0.688,0.17,-6.401,0.54,0.0988,0.000161
+Australia,Electric Love,BØRNS,0.797,86,0.611,0.00543,0.26,-7.627,0.518,0.0533,0.00137
+Australia,Circles,Post Malone,0.762,91,0.695,0.192,0.0863,-3.497,0.553,0.0395,0.00244
+Australia,Supalonely,"BENEE, Gus Dapperton",0.631,92,0.863,0.305,0.123,-4.689,0.817,0.0534,3.04e-05
+Australia,exile (feat. Bon Iver),"Taylor Swift, Bon Iver",0.38,92,0.298,0.778,0.11,-8.426,0.152,0.0287,5.62e-05
+Australia,Lose Somebody,"Kygo, OneRepublic",0.586,79,0.58,0.344,0.0755,-6.883,0.507,0.0357,0.0
+Australia,This City,Sam Fischer,0.377,85,0.602,0.731,0.0808,-6.213,0.518,0.0446,0.0
+Australia,Don't Start Now,Dua Lipa,0.793,88,0.793,0.0123,0.0951,-4.521,0.679,0.083,0.0
+Australia,Adore You,Harry Styles,0.771,89,0.676,0.0237,0.102,-3.675,0.569,0.0483,7e-06
+Australia,Blueberry Faygo,Lil Mosey,0.554,88,0.774,0.207,0.132,-7.909,0.349,0.0383,0.0
+Australia,Lucid Dreams,Juice WRLD,0.566,90,0.511,0.349,0.34,-7.23,0.218,0.2,0.0
+Australia,GO (feat. Juice WRLD),"The Kid LAROI, Juice WRLD",0.74,82,0.487,0.157,0.612,-4.973,0.522,0.0944,0.0
+Australia,ily (i love you baby) (feat. Emilee),"Surf Mesa, Emilee",0.774,94,0.674,0.0686,0.393,-7.567,0.33,0.0892,0.00188
+Australia,Kings & Queens,Ava Max,0.688,92,0.638,0.00775,0.126,-4.056,0.434,0.0407,0.0
+Sweden,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",0.481,97,0.767,0.234,0.269,-8.52,0.761,0.0803,0.0
+Sweden,Svag,Victor Leksell,0.528,80,0.595,0.748,0.112,-8.922,0.419,0.0621,0.0
+Sweden,Blinding Lights,The Weeknd,0.73,99,0.514,0.00146,0.0897,-5.934,0.334,0.0598,9.54e-05
+Sweden,Pop Smoke,"Einár, 5iftyy, Moewgli",0.585,70,0.704,0.0281,0.0935,-8.19,0.382,0.244,0.0
+Sweden,Head & Heart (feat. MNEK),"Joel Corry, MNEK",0.874,91,0.734,0.168,0.0489,-3.158,0.905,0.0662,1.14e-05
+Sweden,Bedövning,Victor Leksell,0.58,74,0.653,0.555,0.0922,-7.415,0.483,0.321,3.56e-06
+Sweden,ROCKSTAR (feat. Roddy Ricch),"DaBaby, Roddy Ricch",0.69,100,0.746,0.247,0.101,-7.956,0.497,0.164,0.0
+Sweden,Komplicerad,Miss Li,0.489,74,0.934,0.0477,0.0626,-7.029,0.874,0.0699,0.0
+Sweden,WAP (feat. Megan Thee Stallion),"Cardi B, Megan Thee Stallion",0.454,94,0.935,0.0194,0.0824,-7.509,0.357,0.375,0.0
+Sweden,Komma över dig - Spotify Studio It's Hits Recording,"Norlie & KKV, Junie",0.633,72,0.508,0.028,0.311,-6.055,0.649,0.0382,0.0
+Sweden,Watermelon Sugar,Harry Styles,0.816,97,0.548,0.122,0.335,-4.209,0.557,0.0465,0.0
+Sweden,Mood Swings (feat. Lil Tjay),"Pop Smoke, Lil Tjay",0.602,90,0.48,0.487,0.0848,-6.335,0.269,0.368,0.0
+Sweden,Laugh Now Cry Later (feat. Lil Durk),"Drake, Lil Durk",0.518,89,0.761,0.244,0.107,-8.871,0.522,0.134,3.47e-05
+Sweden,Breaking Me,"Topic, A7S",0.72,96,0.789,0.223,0.129,-5.652,0.664,0.218,0.0
+Sweden,PA PA,Macky,0.644,68,0.906,0.108,0.189,-5.071,0.558,0.0766,1.39e-05
+Sweden,What's Love Got to Do with It,"Kygo, Tina Turner",0.664,85,0.75,0.275,0.0632,-5.908,0.617,0.154,0.0
+Sweden,Come & Go (with Marshmello),"Juice WRLD, Marshmello",0.814,86,0.625,0.0172,0.158,-5.181,0.535,0.0657,0.0
+Sweden,Young & Heartless,Yasin,0.55,71,0.829,0.39,0.116,-9.071,0.867,0.3,3.47e-05
+Sweden,En säng av rosor,Darin,0.277,70,0.423,0.87,0.139,-7.89,0.298,0.0302,0.0
+Sweden,Ha dig igen,Victor Leksell,0.643,71,0.482,0.162,0.216,-7.372,0.344,0.0836,0.0
+Sweden,Smile (with The Weeknd),"Juice WRLD, The Weeknd",0.685,86,0.694,0.224,0.124,-6.535,0.306,0.133,0.0
+Sweden,For The Night (feat. Lil Baby & DaBaby),"Pop Smoke, Lil Baby, DaBaby",0.586,92,0.823,0.114,0.193,-6.606,0.347,0.2,0.0
+Sweden,Mood (feat. Iann Dior),"24kGoldn, iann dior",0.722,85,0.7,0.221,0.272,-3.558,0.756,0.0369,0.0
+Sweden,Roses - Imanbek Remix,"SAINt JHN, Imanbek",0.721,79,0.785,0.0149,0.285,-5.457,0.894,0.0506,0.00432
+Sweden,Hiphop N RnB,Yasin,0.705,70,0.852,0.501,0.109,-6.213,0.809,0.118,2.36e-05
+Sweden,Love Me Land,Zara Larsson,0.481,76,0.302,0.0945,0.142,-7.023,0.252,0.0625,5.33e-06
+Sweden,DJUPA SÅR,Owen,0.555,56,0.63,0.273,0.0769,-9.061,0.371,0.273,1.03e-06
+Sweden,you broke me first,Tate McRae,0.374,89,0.642,0.786,0.0906,-9.386,0.0799,0.0545,0.0
+Sweden,Det Kommer Bli Bra,Laleh,0.598,69,0.797,0.0149,0.0809,-6.056,0.897,0.0404,1.78e-06
+Sweden,Kanske var vi rätt bra ändå,Newkid,0.489,70,0.526,0.124,0.125,-8.115,0.402,0.298,0.0
+Sweden,Ma Chérie,Ricky Rich,0.757,59,0.739,0.191,0.144,-6.212,0.553,0.0548,0.0
+Sweden,Öga oss,"B.Baby, Asme",0.473,63,0.803,0.331,0.197,-10.437,0.335,0.462,0.0
+Sweden,Take You Dancing,Jason Derulo,0.711,85,0.789,0.0332,0.0876,-4.248,0.753,0.041,0.0
+Sweden,AUDI V2,Dree Low,0.555,64,0.707,0.0512,0.0877,-10.406,0.573,0.265,0.0
+Sweden,Lev nu dö sen,Miss Li,0.643,69,0.445,0.0401,0.0818,-7.473,0.513,0.121,0.0
+Sweden,Aldrig mer vara du,estraden,0.425,68,0.591,0.236,0.0658,-7.729,0.334,0.0353,0.0
+Sweden,Wishing Well,Juice WRLD,0.613,88,0.65,0.00336,0.267,-6.13,0.0804,0.128,0.0
+Sweden,I Follow Rivers,"Helion, Mike Emilio, Vigiland, SUD",0.769,69,0.608,0.00658,0.142,-7.086,0.494,0.0373,0.0717
+Sweden,Take My Hand,Oberg,0.874,67,0.675,0.00486,0.0824,-8.532,0.687,0.249,0.0875
+Sweden,The Woo (feat. 50 Cent & Roddy Ricch),"Pop Smoke, 50 Cent, Roddy Ricch",0.618,92,0.49,0.0221,0.259,-5.655,0.286,0.104,3.77e-06
+Sweden,Passa dig,Miriam Bryant,0.647,68,0.598,0.201,0.102,-4.214,0.565,0.0332,0.0
+Sweden,PIPPI,Dree Low,0.57,68,0.885,0.429,0.111,-8.172,0.86,0.222,0.0
+Sweden,Dance Monkey,Tones And I,0.593,71,0.825,0.688,0.17,-6.401,0.54,0.0988,0.000161
+Sweden,Bless Me,Ricky Rich,0.509,67,0.909,0.514,0.0802,-7.985,0.653,0.26,1.33e-06
+Sweden,Someone,Jubël,0.904,75,0.7,0.0531,0.105,-4.03,0.347,0.0431,8.03e-06
+Sweden,In Your Eyes,The Weeknd,0.719,90,0.667,0.00285,0.0736,-5.371,0.717,0.0346,8.1e-05
+Sweden,Kings & Queens,Ava Max,0.688,92,0.638,0.00775,0.126,-4.056,0.434,0.0407,0.0
+Sweden,FATTIG SOM RIK,Dree Low,0.609,64,0.671,0.601,0.106,-8.573,0.634,0.222,0.0
+Sweden,Karl Johan,"Ringnes-Ronny, Lothepus, hekkan",0.502,73,0.648,0.453,0.109,-11.761,0.348,0.0639,0.0
+Sweden,Lose Somebody,"Kygo, OneRepublic",0.586,79,0.58,0.344,0.0755,-6.883,0.507,0.0357,0.0
+Spain,Mamichula - con Nicki Nicole,"Trueno, Nicki Nicole, Bizarrap, Taiu, TATOOL",0.678,90,0.696,0.582,0.134,-5.893,0.346,0.0735,2.22e-06
+Spain,La Curiosidad,"Jay Wheeler, DJ Nelson, Myke Towers",0.677,92,0.845,0.269,0.108,-4.798,0.68,0.136,0.000917
+Spain,A Güiro,Rafa Pabön,0.581,76,0.958,0.185,0.0282,-5.424,0.902,0.134,0.0707
+Spain,Caramelo,Ozuna,0.806,93,0.728,0.0531,0.153,-3.766,0.698,0.0623,0.000301
+Spain,"Ay, DiOs Mío!",KAROL G,0.712,90,0.718,0.512,0.104,-4.366,0.531,0.174,0.00121
+Spain,Tattoo - Remix with Camilo,"Rauw Alejandro, Camilo",0.637,92,0.848,0.0413,0.0521,-5.132,0.698,0.156,0.0
+Spain,"Agua (with J Balvin) - Music From ""Sponge On The Run"" Movie","Tainy, J Balvin",0.658,92,0.76,0.162,0.195,-5.275,0.565,0.275,0.0
+Spain,La Jeepeta - Remix,"Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka",0.714,82,0.814,0.297,0.091,-4.65,0.789,0.207,4.89e-06
+Spain,Trendy,"Rvfv, Lola Indigo",0.748,75,0.732,0.535,0.18,-3.939,0.418,0.243,0.000299
+Spain,Carita de Inocente (feat. Myke Towers) - Remix,"Prince Royce, Myke Towers",0.781,83,0.565,0.364,0.0984,-3.358,0.943,0.061,0.0
+Spain,Relación,Sech,0.562,90,0.805,0.125,0.148,-3.117,0.767,0.105,4.96e-06
+Spain,El Manual,Anuel AA,0.845,83,0.843,0.35,0.0527,-2.344,0.898,0.0503,0.00168
+Spain,Djadja (feat. Maluma) - Remix,"Aya Nakamura, Maluma",0.682,91,0.791,0.175,0.0926,-7.328,0.672,0.158,0.0
+Spain,Fabuloso,"Sech, Justin Quiles",0.785,82,0.637,0.0846,0.0392,-2.612,0.74,0.166,0.000239
+Spain,UN DIA (ONE DAY) (Feat. Tainy),"J Balvin, Tainy, Dua Lipa, Bad Bunny",0.693,93,0.571,0.00536,0.173,-8.234,0.393,0.0545,0.0
+Spain,Hasta Que Dios Diga,"Anuel AA, Bad Bunny",0.765,90,0.691,0.464,0.203,-4.727,0.855,0.111,3.29e-06
+Spain,Flamenkito,"Lérica, Belinda",0.714,78,0.73,0.0877,0.117,-2.979,0.924,0.107,0.0
+Spain,Hawái,Maluma,0.728,88,0.787,0.189,0.0629,-3.455,0.545,0.389,2.29e-05
+Spain,PAM,"Justin Quiles, Daddy Yankee, El Alfa",0.863,86,0.889,0.289,0.0798,-3.011,0.776,0.0757,0.000603
+Spain,"PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix","Feid, J Balvin, Maluma, Nicky Jam, Sech, Justin Quiles",0.737,86,0.793,0.0765,0.0747,-4.731,0.697,0.0785,0.0
+Spain,Mami,"Ptazeta, Juacko",0.649,70,0.616,0.598,0.0788,-6.555,0.656,0.464,1.9e-06
+Spain,Mil Tequilas,Chema Rivas,0.772,78,0.698,0.224,0.0957,-3.936,0.284,0.133,0.0
+Spain,El Hipo,"Danny Romero, Juan Magán",0.595,74,0.814,0.32,0.0949,-6.282,0.779,0.274,0.0
+Spain,Sur y Norte,"Ñengo Flow, Anuel AA",0.548,72,0.741,0.304,0.0832,-4.938,0.285,0.153,0.0
+Spain,"Lean (feat. Towy, Osquel, Beltito & Sammy & Falsetto)","Super Yei, Towy, Osquel, Beltito, Sammy & Falsetto",0.669,82,0.863,0.111,0.0569,-5.952,0.947,0.282,0.0
+Spain,Pa toda la vida (feat. Mozart La Para),"Don Patricio, Mozart La Para",0.639,78,0.692,0.218,0.147,-5.336,0.511,0.228,3.91e-05
+Spain,Jangueo,"Anuel AA, Tego Calderon",0.728,83,0.863,0.396,0.0902,-2.954,0.649,0.0586,9.14e-06
+Spain,Como Estrellas,LA YOUNG,0.496,70,0.446,0.765,0.259,-6.051,0.763,0.0857,0.0
+Spain,Se iluminaba,"Fred De Palma, Ana Mena",0.693,77,0.791,0.0811,0.0708,-4.98,0.624,0.0639,0.0
+Spain,Caramelo - Remix,"Ozuna, KAROL G, Myke Towers",0.796,62,0.754,0.062,0.204,-3.743,0.62,0.139,8.6e-05
+Spain,CÓMO SE SIENTE - Remix,"Jhay Cortez, Bad Bunny",0.606,88,0.807,0.0946,0.119,-8.871,0.304,0.088,0.0
+Spain,Dembow 2020,"Yandel, Rauw Alejandro",0.811,80,0.786,0.122,0.161,-4.31,0.731,0.0836,3.99e-06
+Spain,Favorito,Camilo,0.853,82,0.606,0.237,0.251,-2.975,0.822,0.0545,0.0
+Spain,Tusa,"KAROL G, Nicki Minaj",0.715,91,0.803,0.295,0.0574,-3.28,0.574,0.298,0.000134
+Spain,MAMACITA,"Black Eyed Peas, Ozuna, J. Rey Soul",0.626,67,0.88,0.19,0.094,-7.062,0.441,0.0473,0.000755
+Spain,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",0.481,97,0.767,0.234,0.269,-8.52,0.761,0.0803,0.0
+Spain,Breaking Me,"Topic, A7S",0.72,96,0.789,0.223,0.129,-5.652,0.664,0.218,0.0
+Spain,Blinding Lights,The Weeknd,0.73,99,0.514,0.00146,0.0897,-5.934,0.334,0.0598,9.54e-05
+Spain,Reggaetonera,Anuel AA,0.796,86,0.694,0.48,0.108,-4.164,0.515,0.0565,0.000384
+Spain,4 besos,"Lola Indigo, Rauw Alejandro, Lalo Ebratt",0.658,77,0.865,0.216,0.0325,-3.035,0.713,0.08,4.72e-06
+Spain,Más De Lo Que Aposté,"Aitana, Morat",0.918,76,0.621,0.0754,0.13,-3.01,0.834,0.0552,0.0
+Spain,Una Mala (Remix),"El Completo Rd, Chimbala",0.81,74,0.864,0.25,0.372,-3.409,0.962,0.0442,9.59e-05
+Spain,Dime Bbsita Remix,"Robledo, Ovy On The Drums, Lalo Ebratt, Omar Montes, Alex Martini",0.73,68,0.8,0.122,0.548,-2.051,0.774,0.0917,0.0
+Spain,El Mismo Aire - con Pablo Alborán,"Camilo, Pablo Alborán",0.492,86,0.483,0.603,0.323,-6.591,0.66,0.295,0.0
+Spain,ROCKSTAR (feat. Roddy Ricch),"DaBaby, Roddy Ricch",0.69,100,0.746,0.247,0.101,-7.956,0.497,0.164,0.0
+Spain,Como Llora,Juanfran,0.629,85,0.827,0.183,0.084,-3.966,0.486,0.185,0.0
+Spain,El Efecto,"Rauw Alejandro, Chencho Corleone",0.781,86,0.849,0.406,0.0801,-4.635,0.893,0.159,0.0
+Spain,Dime Cuantas Veces (Remix) [feat. Justin Quiles],"Micro TDH, Rels B, Lenny Tavárez, Justin Quiles",0.632,80,0.911,0.201,0.0791,-2.94,0.832,0.118,9.26e-06
+Spain,Si Tú La Quieres,"David Bisbal, Aitana",0.778,78,0.748,0.147,0.093,-4.582,0.607,0.0685,1.57e-06
+Spain,TKN (feat. Travis Scott),"ROSALÍA, Travis Scott",0.509,92,0.776,0.192,0.115,-6.266,0.485,0.467,1.49e-06
+Russia,Дежавю,kizaru,0.591,67,0.801,0.0186,0.108,-5.18,0.231,0.143,0.0
+Russia,Fendi,Rakhim,0.436,68,0.94,0.0747,0.113,-10.112,0.29,0.456,0.0
+Russia,Cadillac,"MORGENSHTERN, Eldzhey",0.743,72,0.957,0.0117,0.0994,-3.931,0.673,0.0611,0.257
+Russia,Blinding Lights,The Weeknd,0.73,99,0.514,0.00146,0.0897,-5.934,0.334,0.0598,9.54e-05
+Russia,ICE (feat. MORGENSHTERN),MORGENSHTERN,0.876,67,0.859,0.081,0.385,-5.14,0.885,0.368,0.00137
+Russia,Minor,Miyagi & Andy Panda,0.67,66,0.759,0.593,0.0984,-6.763,0.49,0.0708,5.99e-06
+Russia,Меня не будет,"ANIKV, SALUKI",0.408,61,0.761,0.393,0.123,-11.306,0.302,0.0732,0.000798
+Russia,X.O,"The Limba, Andro",0.626,69,0.863,0.162,0.112,-6.805,0.369,0.0399,0.0
+Russia,Friendly Fire - Prod. Avepack,Boulevard Depo,0.508,65,0.787,0.326,0.14,-8.938,0.338,0.0675,2.44e-06
+Russia,Москва любит...,Scriptonite,0.459,65,0.741,0.0484,0.293,-9.046,0.125,0.157,0.00289
+Russia,Тепло,Max Korzh,0.473,61,0.518,0.374,0.33,-8.022,0.327,0.0551,0.00407
+Russia,Колхозник,Mnogoznaal,0.707,64,0.859,0.262,0.11,-4.363,0.572,0.106,0.0445
+Russia,Забил,ATL,0.677,55,0.851,0.22,0.105,-6.441,0.627,0.143,0.0
+Russia,WAP (feat. Megan Thee Stallion),"Cardi B, Megan Thee Stallion",0.454,94,0.935,0.0194,0.0824,-7.509,0.357,0.375,0.0
+Russia,Сияй,Ramil',0.536,66,0.423,0.286,0.25,-5.474,0.218,0.056,7.37e-06
+Russia,Поболело и прошло,HENSY,0.605,66,0.785,0.501,0.0738,-5.939,0.31,0.0963,0.0
+Russia,Юность,Dabro,0.681,65,0.809,0.173,0.34,-5.415,0.571,0.173,0.0
+Russia,Narcos,kizaru,0.446,63,0.797,0.0523,0.118,-9.943,0.228,0.162,0.0
+Russia,Краш,"Klava Koka, NILETTO",0.721,65,0.853,0.171,0.403,-4.554,0.685,0.113,0.00196
+Russia,2 типа людей,Max Korzh,0.575,63,0.502,0.39,0.193,-6.571,0.178,0.219,0.000882
+Russia,Времена,Max Korzh,0.644,61,0.463,0.124,0.277,-8.6,0.208,0.0493,0.00455
+Russia,ROCKSTAR (feat. Roddy Ricch),"DaBaby, Roddy Ricch",0.69,100,0.746,0.247,0.101,-7.956,0.497,0.164,0.0
+Russia,Положение,Scriptonite,0.539,63,0.58,0.542,0.146,-8.893,0.243,0.322,0.000292
+Russia,Trap Luv,Big Baby Tape,0.694,62,0.698,0.247,0.0889,-8.099,0.232,0.282,3.23e-06
+Russia,How You Like That,BLACKPINK,0.782,89,0.828,0.0694,0.0544,-4.014,0.351,0.0918,3.41e-05
+Russia,Yamakasi,Miyagi & Andy Panda,0.334,63,0.619,0.57,0.148,-10.097,0.0989,0.223,0.000157
+Russia,Smile (with The Weeknd),"Juice WRLD, The Weeknd",0.685,86,0.694,0.224,0.124,-6.535,0.306,0.133,0.0
+Russia,Номера,LSP,0.51,60,0.537,0.391,0.325,-6.524,0.304,0.0422,0.0
+Russia,Laugh Now Cry Later (feat. Lil Durk),"Drake, Lil Durk",0.518,89,0.761,0.244,0.107,-8.871,0.522,0.134,3.47e-05
+Russia,Всё в порядке,DK,0.926,54,0.773,0.00123,0.0618,-6.568,0.822,0.0744,0.00764
+Russia,Angry toy$ - Prod. Ray Qwa,Boulevard Depo,0.46,60,0.823,0.776,0.143,-10.14,0.179,0.129,0.0483
+Russia,Honey's Kettle,"kizaru, HoodRich Pablo Juan",0.478,61,0.787,0.102,0.131,-7.287,0.255,0.0974,0.0
+Russia,Дорадура,дора,0.448,60,0.758,0.226,0.0825,-6.547,0.607,0.0551,0.0
+Russia,Watermelon Sugar,Harry Styles,0.816,97,0.548,0.122,0.335,-4.209,0.557,0.0465,0.0
+Russia,молчи,кис-кис,0.844,60,0.612,0.111,0.448,-6.376,0.537,0.0974,0.0
+Russia,Проснулся В Темноте,GONE.Fludd,0.564,60,0.762,0.0275,0.0797,-8.817,0.372,0.103,0.0
+Russia,ВТОРНИК,GONE.Fludd,0.518,60,0.816,0.0806,0.116,-8.532,0.422,0.0704,0.0
+Russia,Плачу на техно,"Cream Soda, HLEB",0.684,62,0.626,0.0424,0.243,-8.44,0.484,0.0744,3.1e-05
+Russia,ЮМОРИСТ - Original Motion Picture Soundtrack,FACE,0.7,62,0.842,0.058,0.48,-7.567,0.846,0.294,7.54e-06
+Russia,Lovefool,twocolors,0.766,84,0.677,0.0219,0.129,-6.896,0.198,0.0568,6.81e-06
+Russia,MONEY LONG,kizaru,0.587,61,0.745,0.404,0.271,-4.441,0.398,0.0548,0.0
+Russia,ДЕВОЧКА С КАРЕ,MUKKA,0.793,60,0.603,0.108,0.0874,-6.48,0.922,0.0315,0.0
+Russia,Антигерой,Mnogoznaal,0.799,60,0.736,0.629,0.251,-4.603,0.522,0.0352,0.309
+Russia,911,Eldzhey,0.88,60,0.837,0.0331,0.15,-4.586,0.802,0.134,0.0167
+Russia,Конфеты,"Markul, Платина",0.714,60,0.93,0.189,0.103,-5.206,0.758,0.0499,0.0
+Russia,Без ключа,PHARAOH,0.556,60,0.85,0.159,0.0536,-7.284,0.202,0.0385,2.64e-06
+Russia,Kosandra,Miyagi & Andy Panda,0.738,64,0.596,0.583,0.118,-9.567,0.164,0.231,0.0
+Russia,Midnight Sky,Miley Cyrus,0.814,84,0.705,0.00115,0.203,-5.466,0.259,0.0346,0.00312
+Russia,Шантаж,Max Korzh,0.677,62,0.67,0.0451,0.0942,-5.852,0.216,0.0476,0.00338
+Russia,Цепи,"Scriptonite, 104",0.661,60,0.719,0.0338,0.262,-8.797,0.564,0.31,0.0
