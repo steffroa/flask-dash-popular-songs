@@ -11,4 +11,7 @@ def create_app():
         # Import Flask routes
         from .interface import controller
 
+        from .interface.dashboard import create_dashboard
+        app = create_dashboard(app)
+
         return app
