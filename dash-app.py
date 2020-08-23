@@ -7,10 +7,13 @@ import dash_bootstrap_components as dbc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 
+# App creation
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
+# Read data from csv file
 df = pd.read_csv(os.environ['POPULAR_SONGS_DATA'])
 
+# Find the average by country for each audio features
 df_kpi = df.groupby('country').mean()[['energy', 'danceability', 'acousticness',
                                        'liveness', 'valence', 'speechiness']]
 
@@ -18,6 +21,7 @@ categories = list(df_kpi.columns)
 
 countries = list(df_kpi.index.values)
 
+# Select multiple countries
 country_select = dcc.Dropdown(
     id='selector',
     options=[{'label': c, 'value': c} for c in countries],
@@ -25,6 +29,7 @@ country_select = dcc.Dropdown(
     multi=True
 )
 
+# Heatmap graph
 fig_heatmap = go.Figure(data=go.Heatmap(
     z=[df_kpi[a].values.tolist() for a in categories],
     x=countries,
@@ -32,6 +37,7 @@ fig_heatmap = go.Figure(data=go.Heatmap(
     colorscale='Portland',
     hoverongaps=False))
 
+# Defining layout for tab1
 tab1_content = dbc.Card(
     dbc.CardBody([
         dcc.Graph(figure=fig_heatmap)
@@ -39,6 +45,7 @@ tab1_content = dbc.Card(
     className="mt-3",
 )
 
+# Defining layout for tab2
 tab2_content = dbc.Card(
     dbc.CardBody(
         [
@@ -51,6 +58,7 @@ tab2_content = dbc.Card(
     className="mt-3",
 )
 
+# Setting general layout for dash app
 app.layout = dbc.Container([
     html.H1("Popular Songs!"),
     html.Hr(),
@@ -66,6 +74,7 @@ app.layout = dbc.Container([
 ])
 
 
+# Defining a callback function for return a figure with filtered data
 @app.callback(Output('graph-container', 'figure'),
               [Input('selector', 'value')])
 def compare_countries(value):
@@ -99,4 +108,5 @@ def compare_countries(value):
     return fig
 
 
+# Run app
 app.run_server(debug=True, use_reloader=True)
