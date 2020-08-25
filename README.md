@@ -33,7 +33,10 @@ Integrating dashboards in a web app using Flask and Dash
 ├── schema.sql
 └── wsgi.py
 ```
-
+**Branches**:
+* `flask-app`: Flask app before integration
+* `dash-app`: Dash app before integration
+* `master`: Integration = Flask as server and Dash as a module
 ## Setup
 **Installation via `requirements.txt`**:
 
