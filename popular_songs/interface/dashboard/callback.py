@@ -3,6 +3,7 @@ import plotly.graph_objects as go
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
 import dash_core_components as dcc
+import dash_html_components as html
 
 from .data import DashController
 
@@ -47,7 +48,8 @@ def init_callback(app):
         )
         return fig
 
-    @app.callback(Output('memory-output', 'data'),
+    @app.callback([Output('memory-output', 'data'),
+                   Output('loading-data-div', 'children')],
                   [Input('date-selector', 'date')])
     def get_data_from_date(date):
         if date is None:
@@ -57,7 +59,7 @@ def init_callback(app):
         df = dc.create_dataframe()
         kpi = dc.get_kpi_from_df(df)
 
-        return kpi.to_dict()
+        return kpi.to_dict(), html.Div()
 
     @app.callback(Output('container-heatmap', 'children'),
                   [Input('memory-output', 'data')])

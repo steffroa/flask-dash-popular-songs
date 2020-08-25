@@ -45,6 +45,11 @@ def get_app_layout():
         html.H1("Popular Songs!"),
         html.Hr(),
         html.Div([date_select]),
+        dcc.Loading(
+            id="loading-2",
+            type="default",
+            children=html.Div(id="loading-data-div")
+        ),
         dbc.Tabs(
             [
                 dbc.Tab(label='Audio Features Heatmap', tab_id='heatmap', children=tab1_content),
